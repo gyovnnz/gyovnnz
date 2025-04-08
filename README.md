@@ -13,6 +13,7 @@
 </div>
   
 <div> <br>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -25,7 +26,7 @@
   Eu sou a Gi! Uma estudante de programação apaixonada por tecnologia, animes e videogames. <br> 
   Adoro conhecer pessoas, lugares e culturas novas. Me considero uma pessoa muito curiosa e com uma <br>
   enorme vontade de aprender. Além de programação também me interesso muito por arte e literatura <3 <br>
-  Atualmente estou estudando HTML, CSS e JavaScript.
+  Atualmente estou estudando Java e Python.
    
   ### Confira meus canais de comunicação:
  
